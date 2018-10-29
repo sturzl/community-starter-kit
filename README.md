@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+An app that welcomes new contributors to a repository
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* Feature 1
+* Feature 2
+* Feature 3
 
 ## Getting started
 
